@@ -31,12 +31,15 @@ body{
     color: var(--destaque);
 }#sobre{
     display: flex;
+    font-size: 25px;
 
 }.text{
     float: left;
     width: 50%;
     text-align: justify;
     margin: -80px 10px 10px 10px;
+    font-size: 25px;
+
     
 }.perfil{
     width: 30%;
