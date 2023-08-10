@@ -31,7 +31,6 @@ body{
     color: var(--destaque);
 }#sobre{
     display: flex;
-    font-size: 25px;
 
 }.text{
     float: left;
