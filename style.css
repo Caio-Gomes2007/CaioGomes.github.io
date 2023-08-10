@@ -142,11 +142,11 @@ body{
     width: 100%;
     height: 50px;
     text-align: center;
-    background-color: var(--destaque02);
+    background-color: var(--destaque);
 }footer p{
     margin: 0 auto;
 }#minifooter{
-    background-color: var(--destaque);
+    background-color: var(--destaque02);
     width: 100%;
     height: 10px;
 }.tag{
