@@ -5,7 +5,7 @@
 
 
 body{
-    background-image: linear-gradient(to top, #051923,#03273C,#003554);
+    background-image: linear-gradient(to top,#0A5D8F ,#051923,#03273C,#003554,#0A5D8F);
     margin: 0 auto;
     color: white;
     font-family: 'Roboto', sans-serif;
@@ -139,8 +139,12 @@ body{
     background-color: var(--destaque02);
     border: none;
     border-radius: 10px;
-    color: var(--destaque);
+    color: white;
     margin-top: 20px;
+
+}#Projetos button:hover{
+
+    background-color: #003554;
 
 }footer{
     width: 100%;
